@@ -1,0 +1,17 @@
+.rego{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.rego input{
+    box-sizing: border-box;
+    width: 400px;
+    height: 30px;
+    padding: 5px;
+}
+
+.regButton{
+    width: 400px;
+    height: 25px;
+}

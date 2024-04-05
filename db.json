@@ -1,0 +1,20 @@
+{
+  "info": [
+    {
+      "id": "bee7",
+      "firstname": "muxitbek",
+      "lastname": "kudaybergenov",
+      "email": "user1@example.com",
+      "password": "mimi",
+      "rePassword": "mimi"
+    },
+    {
+      "id": "d9c7",
+      "firstname": "jo",
+      "lastname": "fay",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "rePassword": "123456"
+    }
+  ]
+}

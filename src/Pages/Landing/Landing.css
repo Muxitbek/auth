@@ -1,0 +1,38 @@
+.proImg{
+    width: 40px;
+}
+
+.landBox{
+    display: flex;
+    align-items: center;
+    background-color: skyblue;
+    padding: 10px 30px;
+    justify-content: space-between;
+}
+
+.menuCont{
+    display: flex;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logBox{
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.modal{
+    position: absolute;
+    right: 0px;
+    border: 2px solid;
+    background-color: aqua;
+}
+
+.navLog{
+    font-size: 30px;
+}
